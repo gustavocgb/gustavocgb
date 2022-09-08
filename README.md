@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/gustavo-barbosa-39829819b/)
 
-# Hi, I'm Gustavo Barbosa 👋
-
+# Hi, I'm Gustavo Barbosa 👋<br>
 Software developer.
 
 My focus is on web development, backend with Node.Js and TypeScript.
