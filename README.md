@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gustavocgb/gustavocgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/gustavo-barbosa-39829819b/)
+
+### Olá, sou o Gustavo Barbosa 👋
